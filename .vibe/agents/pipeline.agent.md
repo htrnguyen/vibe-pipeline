@@ -22,6 +22,8 @@ STEP 1 (BA)
 STEP 2 (DEV)
 
 - Implement strictly based on acceptance criteria
+- **ONLY create files that are EXPLICITLY requested in the user requirement**
+- **DO NOT create**: test files, bug logs, TODO files, notes, or temporary documentation
 - If run/build changes: update README.md
 - If structure changes: update project_structure.md
 
